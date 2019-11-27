@@ -3,10 +3,14 @@ This is orginally forked from https://github.com/ra101/tonic-jupyter-theme-edit,
 
 A dark Jupyter/iPython notebook theme.
 
+<br>
+
 ## Difference
 - Changed floating header to fixed one.
 - Added Tables that go with dark theme.
  
+<br>
+
 ## Install
 ### Jupyter <4.0
 Put the `custom.css` file in the folder `~/.ipython/profile_default/static/custom/`.
