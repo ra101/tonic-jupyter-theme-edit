@@ -7,7 +7,10 @@ A dark Jupyter/iPython notebook theme.
 
 ## Difference
 - Changed floating header to fixed one.
-- Added Tables that go with dark theme.
+- Styled Tables that go with dark theme.
+- Changed Input Style.
+- Some Font and Color pallet changes.
+- Less white.
  
 <br>
 
